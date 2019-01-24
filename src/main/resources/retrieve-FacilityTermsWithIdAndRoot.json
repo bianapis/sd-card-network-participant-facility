@@ -1,0 +1,10 @@
+{
+  "participantAcquirerBankReference" : "PABR3201",
+  "productInstanceReference" : "LPIR2030",
+  "participantIssuerBankClearingAndSettlementTerms" : "ClearingFees",
+  "participantAcquirerBankClearingAndSettlementTerms" : "ClearingFees",
+  "participantIssuerBankReference" : "PIBR3890",
+  "participantIssuerBankServiceSchedule" : "ProcessingSchedule",
+  "networkParticipantFacilityTermsReference" : "NATR7221",
+  "participantAcquirerBankServiceSchedule" : "ProcessingSchedule"
+}

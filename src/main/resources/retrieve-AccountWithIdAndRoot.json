@@ -1,0 +1,10 @@
+{
+  "networkParticipantFacilityAccountAccessRecord" : {},
+  "productInstanceReference" : "LPIR2030",
+  "networkParticipantFacilityAccountAccessReference" : "NAAR3398",
+  "networkParticipantFacilityAccountPostingResult" : "Success",
+  "networkParticipantFacilityAccountPostingPurpose" : "Fees",
+  "networkParticipantFacilityAccountReference" : "NAFR9399",
+  "networkParticipantFacilityAccountPostingAmount" : "Credit",
+  "networkParticipantFacilityAccountPostingValueDate" : "09-07-2018"
+}
